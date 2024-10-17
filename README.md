@@ -160,5 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, feel free to reach out:
 
 - **Muhammad Faisal**
-  [codebyfaisal@gmail.com](mailto:codebyfaisal@gmail.com)  
-  [GitHub Profile](https://github.com/codebyfaisal)
+
+  Email: [codebyfaisal@gmail.com](mailto:codebyfaisal@gmail.com)  
+  Github: [codebyfaisal](https://github.com/codebyfaisal)  
+  Linkedin: [codebyfaisal](https://www.linkedin.com/in/codebyfaisal/)
