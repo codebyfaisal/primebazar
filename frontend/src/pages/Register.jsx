@@ -1,9 +1,11 @@
-import { useState } from 'react';
+import { useContext, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import { Loader } from '../components/index.js';
+import { ShopContext } from '../context/ShopContext';
 
 const Register = () => {
+  const {backendUrl} = useContext(ShopContext)
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -16,7 +18,7 @@ const Register = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch(backen+'/auth/user/register', {
+      const response = await fetch(backendUrl+'/auth/user/register', {
         method: "POST",
         headers: {
           'Content-Type': 'application/json',
