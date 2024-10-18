@@ -61,7 +61,7 @@ function App() {
     >
       <ToastContainer />
       <Navbar />
-      <main className="relative min-h-screen">
+      <main className="relative">
         <Routes location={location}>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
