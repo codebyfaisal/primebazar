@@ -15,23 +15,21 @@ import menu_icon from './menu_icon.png'
 import about_1_img from './about_1_img.png'
 import about_2_img from './about_2_img.png'
 import contact_img from './contact_img.png'
-import razorpay_logo from './razorpay_logo.png'
 import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
 import facebook_icon from './facebook_icon.png'
 import instagram_icon from './instagram_icon.png'
 import twitter_icon from './twitter_icon.png'
 import linkedin_icon from './linkedin_icon.png'
-import moneyback_img from './moneyback_img.png'
 import cod_img from './cod_img.png'
-import hero_1_img from './hero_1_img.png'
-import hero_2_img from './hero_2_img.png'
+import hero_1_img from './hero_1_img.avif'
+import hero_2_img from './hero_2_img.avif'
 import user_icon from './user_icon.png'
 import orders_icon from './orders_icon.png'
 import setting_icon from './setting_icon.png'
 
 export const assets = {
-    logo, cart_icon, dropdown_icon, exchange_icon, profile_icon, profile_img, quality_icon, search_icon, star_dull_icon, star_icon, bin_icon, support_img, menu_icon, contact_img, razorpay_logo, stripe_logo, cross_icon, facebook_icon, instagram_icon, twitter_icon, linkedin_icon, noproduct_img, moneyback_img, cod_img, about_1_img, about_2_img, hero_1_img, hero_2_img, user_icon, orders_icon,setting_icon
+    logo, cart_icon, dropdown_icon, exchange_icon, profile_icon, profile_img, quality_icon, search_icon, star_dull_icon, star_icon, bin_icon, support_img, menu_icon, contact_img, stripe_logo, cross_icon, facebook_icon, instagram_icon, twitter_icon, linkedin_icon, noproduct_img, cod_img, about_1_img, about_2_img, hero_1_img, hero_2_img, user_icon, orders_icon,setting_icon
 }
 
 export const blogs = [
